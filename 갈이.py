@@ -1,5 +1,4 @@
 import discord
-from googletrans import Translator
 import asyncio
 from discord import Client
 from bs4 import BeautifulSoup
