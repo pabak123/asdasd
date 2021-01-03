@@ -259,4 +259,4 @@ async def on_message(message):
 
 
 # 구동 할 봇 토큰
-client.run("NzM3OTUzNTA1Mjc2NDYxMTE3.XyE2wg.w3X5WQkt3WB7XcN3cl6BMRlUHAM")
+client.run("bot_token")
